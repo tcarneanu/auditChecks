@@ -1,0 +1,18 @@
+Slack
+Skype
+Flowdock
+Putty
+MobaXterm
+Studio1 Manager
+NoSQL Booster (MongoDB)
+WinSCP
+Shew VPN Manager
+Wireshark
+VSphere WMware client
+Sublime
+Notepad++
+VLC
+Email Client?
+Greenshot
+7Zip
+Dropbox
