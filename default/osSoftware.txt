@@ -1,0 +1,53 @@
+Conexant ISST Audio
+Samsung
+Universal CRT
+Synaptics Pointing Device
+HowToGuide
+BrLauncher
+PC-FAXReceive
+BrSupportTools
+ControlCenter4
+StatusMonitor
+BrLogRx
+Catalyst
+Windows Driver Package 
+IrfanView
+Microsoft
+Windows
+NVIDIA
+Brother
+Br
+Vulkan
+Asus
+Lenovo
+HP
+Logitech Unifying Software
+Realtek
+SDK
+ARM
+ASUS
+REALTEK 
+ATK Package
+Windows App Certification Kit Native Components
+DiagnosticsHub_CollectionService
+Intel
+Java
+Windows SDK
+ScannerUtilityInstaller
+ASUS Device Activation
+RemoteSetup
+UsbRepairTool
+Update for
+ASUS Live Update
+HP Documentation
+HP ePrint SW
+Energy Star
+IIS 10.0 Express
+IntelliTraceProfilerProxy
+Maxx Audio Installer (x64)
+Qualcomm Atheros*
+Dell SupportAssist
+Bonjour
+Dolby Audio X2 Windows APP
+OEM Application Profile
+Wacom Tablet

@@ -1,90 +1,31 @@
 ﻿
 ComputerName ProgramName                                                                          
 ------------ -----------                                                                          
-SS0066       Windows Driver Package - Google, Inc. (WinUSB) AndroidUsbDeviceClass  (08/28/2014 ...
-SS0066       Windows Driver Package - ASUS (AsusSGDrv) Mouse  (06/18/2015 8.0.0.16)               
 SS0066       7-Zip 16.02 (x64)                                                                    
 SS0066       Android Studio                                                                       
 SS0066       Cisco Packet Tracer 7.1 64Bit                                                        
 SS0066       GIMP 2.8.18                                                                          
 SS0066       Git version 2.17.0                                                                   
 SS0066       Greenshot 1.2.10.6                                                                   
-SS0066       Microsoft Office Home and Business 2016 - en-us                                      
-SS0066       Microsoft Office 2016 pentru firme mici - ro-ro                                      
-SS0066       IrfanView 4.44 (64-bit)                                                              
-SS0066       Logitech Unifying Software 2.50                                                      
-SS0066       Microsoft Visual J# 2.0 Redistributable Package - SE (x64)                           
 SS0066       Mozilla Firefox 60.0.2 (x64 en-US)                                                   
 SS0066       Mozilla Maintenance Service                                                          
 SS0066       Shrew Soft VPN Client                                                                
 SS0066       Counter-Strike                                                                       
 SS0066       Sublime Text Build 3176                                                              
 SS0066       WinRAR 5.40 (64-bit)                                                                 
-SS0066       Intel(R) Management Engine Components                                                
-SS0066       Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                          
-SS0066       Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610                           
-SS0066       Intel(R) Serial IO                                                                   
 SS0066       PuTTY release 0.70 (64-bit)                                                          
-SS0066       Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148                       
-SS0066       Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.24215                           
-SS0066       Intel(R) ME UninstallLegacy                                                          
 SS0066       MongoChef Core                                                                       
-SS0066       Intel(R) Management Engine Components                                                
-SS0066       Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161                       
-SS0066       Intel® Hardware Accelerated Execution Manager                                        
 SS0066       Epic Games Launcher Prerequisites (x64)                                              
-SS0066       Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610                        
-SS0066       Intel® Trusted Connect Service Client                                                
-SS0066       Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17                         
-SS0066       Intel(R) Chipset Device Software                                                     
 SS0066       Office 16 Click-to-Run Licensing Component                                           
 SS0066       Office 16 Click-to-Run Extensibility Component                                       
 SS0066       Office 16 Click-to-Run Localization Component                                        
 SS0066       Office 16 Click-to-Run Localization Component                                        
 SS0066       ESET Security                                                                        
-SS0066       Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005                        
 SS0066       MongoDB 3.6.5 2008R2Plus Enterprise (64 bit)                                         
-SS0066       Intel(R) Serial IO                                                                   
-SS0066       Intel(R) Management Engine Components                                                
-SS0066       Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005                           
 SS0066       Oracle VM VirtualBox 5.2.8                                                           
 SS0066       VNC Viewer 6.18.625                                                                  
-SS0066       Microsoft HEVC Media Extension Installation for Microsoft.HEVCVideoExtension_1.0.2...
-SS0066       Microsoft Visual J# 2.0 Redistributable Package - SE (x64)                           
-SS0066       NVIDIA Ansel                                                                         
-SS0066       NVIDIA Control Panel 398.36                                                          
-SS0066       NVIDIA Graphics Driver 398.36                                                        
-SS0066       NVIDIA GeForce Experience 3.14.0.139                                                 
-SS0066       NVIDIA Optimus Update 31.2.0.0                                                       
-SS0066       NVIDIA PhysX System Software 9.17.0524                                               
-SS0066       NVIDIA Update 31.2.0.0                                                               
 SS0066       DisplayDriverAnalyzer                                                                
-SS0066       NVIDIA SHIELD Streaming                                                              
-SS0066       NVIDIA Install Application                                                           
-SS0066       NVIDIA Backend                                                                       
-SS0066       NVIDIA Container                                                                     
-SS0066       NVIDIA TelemetryApi helper for NvContainer                                           
-SS0066       NVIDIA LocalSystem Container                                                         
-SS0066       NVIDIA Message Bus for NvContainer                                                   
-SS0066       NVIDIA NetworkService Container                                                      
-SS0066       NVIDIA Session Container                                                             
-SS0066       NVIDIA User Container                                                                
-SS0066       NVIDIA Display Container                                                             
-SS0066       NVIDIA Display Container LS                                                          
-SS0066       NVIDIA Display Watchdog Plugin                                                       
-SS0066       NVIDIA Display Session Container                                                     
-SS0066       NVIDIA NodeJS                                                                        
-SS0066       NVIDIA Watchdog Plugin for NvContainer                                               
-SS0066       NVIDIA Telemetry Client                                                              
-SS0066       NVIDIA Telemetry Container                                                           
-SS0066       NVIDIA Virtual Host Controller                                                       
 SS0066       Nvidia Share                                                                         
-SS0066       NVIDIA ShadowPlay 3.14.0.139                                                         
-SS0066       NVIDIA SHIELD Wireless Controller Driver                                             
-SS0066       NVIDIA Update Core                                                                   
-SS0066       NVIDIA Virtual Audio 4.06.0                                                          
-SS0066       Microsoft Visual Studio Code                                                         
-SS0066       Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.24215                        
 SS0066       Battle.net                                                                           
 SS0066       Diablo III                                                                           
 SS0066       Dropbox                                                                              
@@ -93,8 +34,6 @@ SS0066       League of Legends
 SS0066       Mozilla Thunderbird 45.8.0 (x86 en-US)                                               
 SS0066       Notepad++ (32-bit x86)                                                               
 SS0066       PunkBuster Services                                                                  
-SS0066       Samsung Network PC Fax                                                               
-SS0066       Maintenance Samsung SCX-4623 Series                                                  
 SS0066       Steam                                                                                
 SS0066       studio:1 manager                                                                     
 SS0066       TeamViewer 13                                                                        
@@ -105,46 +44,18 @@ SS0066       Wireshark 2.4.6 64-bit
 SS0066       World of Warcraft                                                                    
 SS0066       XAMPP                                                                                
 SS0066       AOMEI Partition Assistant Standard Edition 7.0                                       
-SS0066       Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501                         
 SS0066       Dropbox Update Helper                                                                
 SS0066       SD Card Formatter                                                                    
 SS0066       PS4 Remote Play                                                                      
-SS0066       Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005                           
-SS0066       Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148                       
-SS0066       Java 8 Update 181                                                                    
 SS0066       Skype™ 7.40                                                                          
-SS0066       Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610                        
 SS0066       Win32DiskImager version 1.0.0                                                        
-SS0066       Java Auto Updater                                                                    
-SS0066       Intel® Security Assist                                                               
 SS0066       VMware vSphere Client 5.5                                                            
 SS0066       VMware vSphere Client 6.0                                                            
-SS0066       Realtek Card Reader                                                                  
 SS0066       Google Update Helper                                                                 
-SS0066       Intel(R) Dynamic Platform and Thermal Framework                                      
 SS0066       Flowdock                                                                             
-SS0066       Microsoft Visual C++ 2015 x86 Additional Runtime - 14.0.24215                        
 SS0066       MobaXterm                                                                            
-SS0066       Realtek Ethernet Controller Driver                                                   
-SS0066       Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610                         
-SS0066       Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161                       
-SS0066       REALTEK Bluetooth Filter Driver                                                      
-SS0066       REALTEK Wireless LAN Driver                                                          
-SS0066       Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610                         
-SS0066       Intel(R) Chipset Device Software                                                     
-SS0066       ATK Package                                                                          
 SS0066       Adobe Refresh Manager                                                                
 SS0066       Adobe Reader XI (11.0.23)                                                            
-SS0066       Microsoft Visual C++ 2015 x86 Minimum Runtime - 14.0.24215                           
 SS0066       Launcher Prerequisites (x64)                                                         
-SS0066       Microsoft Visual C++ 2015 Redistributable (x64) - 14.0.24215                         
-SS0066       Microsoft ASP.NET MVC 2                                                              
-SS0066       Microsoft Visual C++ 2015 Redistributable (x86) - 14.0.24215                         
-SS0066       Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610                           
-SS0066       Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                          
-SS0066       Intel(R) Processor Graphics                                                          
-SS0066       Realtek High Definition Audio Driver                                                 
-SS0066       Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501                         
-SS0066       Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005                        
 
 
