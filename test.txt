@@ -1,0 +1,20 @@
+User with PC /opt/hawkEye/SS0067 has the follwing type
+User with PC /opt/hawkEye/SS0068 has the follwing type
+empl_type
+operations
+User with PC /opt/hawkEye/SS0080 has the follwing type
+empl_type
+operations
+User with PC /opt/hawkEye/SS0086 has the follwing type
+empl_type
+mgmt
+User with PC /opt/hawkEye/SS0105 has the follwing type
+empl_type
+operations
+User with PC /opt/hawkEye/SS0117 has the follwing type
+User with PC /opt/hawkEye/SS0036 has the follwing type
+User with PC /opt/hawkEye/SS0061 has the follwing type
+User with PC /opt/hawkEye/SS0063 has the follwing type
+empl_type
+hr
+User with PC /opt/hawkEye/SS0066 has the follwing type

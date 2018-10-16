@@ -1,10 +1,10 @@
 Slack
 Skype
 Flowdock
-Putty
+SuperPuTTY
 MobaXterm
-Studio1 Manager
-NoSQL Booster (MongoDB)
+studio:1 manager
+NoSQL Booster
 WinSCP
 Shew VPN Manager
 Wireshark
@@ -12,7 +12,13 @@ VSphere WMware client
 Sublime
 Notepad++
 VLC
-Email Client?
+LibreOffice
+Mongo
 Greenshot
-7Zip
+7-Zip
 Dropbox
+OpenVPN
+Git
+Oracle
+Charles
+
