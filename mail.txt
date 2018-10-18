@@ -1,0 +1,1339 @@
+----------------------------------------------------------------------------------------
+Checked on 2018-10-17
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       Ve
+                                                                                                rs
+                                                                                                io
+                                                                                                nM
+                                                                                                aj
+                                                                                                or
+------------ -----------                                                   --------------       --
+
+
+----------------------------------------------------------------------------------------
+Dan Radu is using SS0061
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion   Versio
+                                                                                            nMajor
+------------ -----------                                                   --------------   ------
+SS0061       Studio 3T                                                     2018.2.4           2018
+SS0061       MySQL Workbench 6.3 CE                                        6.3.10                6
+
+
+----------------------------------------------------------------------------------------
+Cristian Oltean is using SS0062. Employee is part of team Anevia.
+
+ComputerName ProgramName                                                    DisplayVersion   Versi
+                                                                                             onMaj
+                                                                                                or
+------------ -----------                                                    --------------   -----
+SS0062       SoapUI 5.4.0-EB 5.4.0-EB                                       5.4.0-EB             5
+SS0062       7-Zip 18.05 (x64)                                              18.05               18
+SS0062       MediaInfo 18.05                                                18.05                 
+SS0062       OpenVPN 2.4.6-I602                                             2.4.6-I602            
+SS0062       Pulse Secure Setup Client 64-bit Activex Control               2.1.1.1               
+SS0062       Shrew Soft VPN Client                                                                
+SS0062       Counter-Strike                                                                       
+SS0062       Sublime Text Build 3176                                                              
+SS0062       WinRAR 5.60 (64-bit)                                           5.60.0               5
+SS0062       DNE Update                                                     4.35.0.18936         4
+SS0062       Cisco Systems VPN Client 5.0.07.0440                           5.0.7                5
+SS0062       LEAPWORK 2.5.951                                               2.5.951              2
+SS0062       ESET Security                                                  11.0.159.9          11
+SS0062       FortiClient                                                    6.0.0.0067           6
+SS0062       Pulse Secure                                                   5.3.1021             5
+SS0062       Battle.net                                                                           
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103             
+SS0062       Dropbox                                                        59.4.93             59
+SS0062       OpenEye/dvbanalyzer (remove only)                                                    
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       Juniper Networks Network Connect 7.1.0                         7.1.0.18193           
+SS0062       Juniper Networks, Inc. Setup Client Activex Control            2.1.1.1               
+SS0062       Juniper Networks Secure Application Manager                    6.5.0.16339           
+SS0062       Notepad++ (32-bit x86)                                         7.5.8                7
+SS0062       Pulse Secure 5.3                                               5.3.1021              
+SS0062       Pulse Secure Setup Client Activex Control                      2.1.1.1               
+SS0062       Skype version 8.25                                             8.25                 8
+SS0062       Sophos SSL VPN Client 2.1                                      2.1                   
+SS0062       StarCraft II                                                                         
+SS0062       Steam                                                          2.10.91.91            
+SS0062       TeamViewer 13                                                  13.2.14327          13
+SS0062       PROMAX TS Analyser                                                                   
+SS0062       TSReader Lite 2.8.53                                           2.8.53               2
+SS0062       WinPcap 4.1.3                                                  4.1.0.2980           4
+SS0062       WinSCP 5.13.3                                                  5.13.3               5
+SS0062       Wireshark 2.6.1 64-bit                                         2.6.1                2
+SS0062       Dropbox Update Helper                                          1.3.141.1            1
+SS0062       Hangouts Chat                                                  18.8.311            18
+SS0062       Pulse Application Launcher                                     8.2.869              8
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103            4
+SS0062       Cisco AnyConnect Diagnostics and Reporting Tool                4.6.01103            4
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       SuperPuTTY                                                     1.4.0.8              1
+SS0062       MP4 Inspector version 0.1.2.0                                  0.1.2.0              0
+SS0062       Media Analyzer                                                 1.0.0                1
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                     DisplayVersion VersionMajor
+------------ -----------                     -------------- ------------
+SS0063       Studio 3T                       2018.2.4               2018
+SS0063       Battle.net                                                 
+SS0063       Visual Studio Community 2017    15.7.27703....             
+SS0063       Robo 3T 1.2.1                   1.2.1                      
+SS0063       StarCraft II                                               
+
+
+----------------------------------------------------------------------------------------
+Andrei Groza is using SS0067
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                        DisplayVersion   VersionMajor
+------------ -----------                                        --------------   ------------
+
+
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                            DisplayVersion
+------------ -----------                                                            --------------
+SS0068       Visual Studio Community 2017                                           15.5.27130....
+SS0068       WinRAR 5.40 (64-bit)                                                   5.40.0        
+SS0068       Python 2.7.14 (64-bit)                                                 2.7.14150     
+SS0068       VS Script Debugging Common                                             16.0.76.0     
+SS0068       Node.js                                                                8.9.4         
+SS0068       MySQL Workbench 6.2 CE                                                 6.2.5         
+SS0068       Application Verifier x64 External Package                              10.1.16299.15 
+SS0068       Application Verifier x64 External Package                              10.1.15063.674
+SS0068       VS JIT Debugger                                                        16.0.76.0     
+SS0068       RabbitMQ Server 3.7.0                                                  3.7.0         
+SS0068       XAMPP                                                                  7.1.1-0       
+SS0068       vcpp_crt.redist.clickonce                                              14.12.25830   
+SS0068       WinAppDeploy                                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.15063.674
+SS0068       VS Immersive Activate Helper                                           16.0.76.0     
+SS0068       WinAppDeploy                                                           10.1.16299.15 
+SS0068       Kits Configuration Installer                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.16299.15 
+SS0068       Gtk# for .Net 2.12.26                                                  2.12.26       
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                    DisplayVersion   Versi
+                                                                                             onMaj
+                                                                                                or
+------------ -----------                                                    --------------   -----
+SS0086       7-Zip 18.05 (x64)                                              18.05               18
+SS0086       Notepad++ (64-bit x64)                                         7.5.8                7
+SS0086       OpenVPN 2.4.4-I601                                             2.4.4-I601            
+SS0086       Shrew Soft VPN Client                                                                
+SS0086       Total Commander 64-bit (Remove or Repair)                      9.12                 9
+SS0086       USBPcap 1.2.0.3                                                1.2.0.3               
+SS0086       PuTTY release 0.70 (64-bit)                                    0.70.0.0             0
+SS0086       Killer Performance Driver Suite                                1.5.1871             1
+SS0086       ESET Security                                                  11.0.159.9          11
+SS0086       Dell Command | Power Manager                                   2.2.1                2
+SS0086       ComLink                                                                              
+SS0086       Dropbox                                                        59.4.93             59
+SS0086       EaseUS Todo Backup Free 10.6                                   10.6                  
+SS0086       TeamViewer 13                                                  13.2.5287           13
+SS0086       WinPcap 4.1.3                                                  4.1.0.2980           4
+SS0086       WinSCP 5.13.3                                                  5.13.3               5
+SS0086       Wireshark 2.6.2 64-bit                                         2.6.2                2
+SS0086       Dropbox Update Helper                                          1.3.141.1            1
+SS0086       Thunderbolt™ Software                                          17.4.77.400         17
+SS0086       Skype™ 7.41                                                    7.41.101             7
+SS0086       Win32DiskImager version 1.0.0                                  1.0.0                1
+SS0086       Flowdock                                                       1.0.3                1
+SS0086       CDBurnerXP                                                     4.5.8.6795            
+SS0086       Sql Server Customer Experience Improvement Program             10.0.1600.22        10
+SS0086       Dell Update                                                    2.1.3.0              2
+SS0086       Asmedia USB Host Controller Driver                             1.16.54.1            1
+SS0086       Dell Command | Update                                          2.4.0                2
+
+
+----------------------------------------------------------------------------------------
+Ionut Chirvasoiu is using SS0099
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion   VersionMajor
+------------ -----------                                     --------------   ------------
+SS0099       7-Zip 18.05 (x64)                               18.05                      18
+SS0099       Shrew Soft VPN Client                                                        
+SS0099       ESET Security                                   11.0.159.9                 11
+SS0099       Dropbox                                         59.4.93                    59
+SS0099       EaseUS Todo Backup Free 10.6                    10.6                         
+SS0099       Dropbox Update Helper                           1.3.141.1                   1
+SS0099       McAfee Safe Connect                             1.6.0.223                   1
+
+
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                        DisplayVersion    
+------------ -----------                                                        --------------    
+SS0105       Battle.net                                                                           
+SS0105       World of Warcraft                                                                    
+
+
+----------------------------------------------------------------------------------------
+Cristian Zara is using SS0117
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                    DisplayVersion     Ver
+                                                                                               sio
+                                                                                               nMa
+                                                                                               jor
+------------ -----------                                                    --------------     ---
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20180831
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                  DisplayVersion      VersionMajor
+------------ -----------                                                                  --------------      ------------
+SS0068       Visual Studio Community 2017                                                 15.5.27130.2024                 
+SS0068       GIMP 2.8.22                                                                  2.8.22                         2
+SS0068       SWI-Prolog (remove only)                                                                                     
+SS0068       WinRAR 5.40 (64-bit)                                                         5.40.0                         5
+SS0068       Python 2.7.14 (64-bit)                                                       2.7.14150                      2
+SS0068       VS Script Debugging Common                                                   16.0.76.0                     16
+SS0068       Node.js                                                                      8.9.4                          8
+SS0068       MySQL Workbench 6.2 CE                                                       6.2.5                          6
+SS0068       Application Verifier x64 External Package                                    10.1.16299.15                 10
+SS0068       Application Verifier x64 External Package                                    10.1.15063.674                10
+SS0068       VS JIT Debugger                                                              16.0.76.0                     16
+SS0068       Erlang OTP 20 (9.1)                                                                                          
+SS0068       RabbitMQ Server 3.7.0                                                        3.7.0                           
+SS0068       TeamViewer 12                                                                12.0.90922                    12
+SS0068       XAMPP                                                                        7.1.1-0                        7
+SS0068       vcpp_crt.redist.clickonce                                                    14.12.25830                   14
+SS0068       WinAppDeploy                                                                 10.1.15063.674                10
+SS0068       MSI Development Tools                                                        10.1.15063.674                10
+SS0068       VS Immersive Activate Helper                                                 16.0.76.0                     16
+SS0068       WinAppDeploy                                                                 10.1.16299.15                 10
+SS0068       Kits Configuration Installer                                                 10.1.15063.674                10
+SS0068       MSI Development Tools                                                        10.1.16299.15                 10
+SS0068       Gtk# for .Net 2.12.26                                                        2.12.26                        2
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                    DisplayVersion   VersionMajor
+------------ -----------                                                    --------------   ------------
+SS0086       7-Zip 18.05 (x64)                                              18.05                      18
+SS0086       Notepad++ (64-bit x64)                                         7.5.8                       7
+SS0086       OpenVPN 2.4.4-I601                                             2.4.4-I601                   
+SS0086       Shrew Soft VPN Client                                                                       
+SS0086       Total Commander 64-bit (Remove or Repair)                      9.12                        9
+SS0086       USBPcap 1.2.0.3                                                1.2.0.3                      
+SS0086       PuTTY release 0.70 (64-bit)                                    0.70.0.0                    0
+SS0086       ESET Security                                                  11.0.159.9                 11
+SS0086       Killer Performance Driver Suite                                1.5.1852                    1
+SS0086       Dell Command | Power Manager                                   2.2.1                       2
+SS0086       ComLink                                                                                     
+SS0086       Dropbox                                                        56.4.94                    56
+SS0086       EaseUS Todo Backup Free 10.6                                   10.6                         
+SS0086       TeamViewer 13                                                  13.2.5287                  13
+SS0086       WinPcap 4.1.3                                                  4.1.0.2980                  4
+SS0086       WinSCP 5.13.3                                                  5.13.3                      5
+SS0086       Wireshark 2.6.2 64-bit                                         2.6.2                       2
+SS0086       Dropbox Update Helper                                          1.3.127.1                   1
+SS0086       Skype™ 7.41                                                    7.41.101                    7
+SS0086       Flowdock                                                       1.0.2                       1
+SS0086       Thunderbolt™ Software                                          16.3.61.275                16
+SS0086       Sql Server Customer Experience Improvement Program             10.0.1600.22               10
+SS0086       Dell Update                                                    2.1.3.0                     2
+SS0086       Asmedia USB Host Controller Driver                             1.16.51.1                   1
+SS0086       Dell Command | Update                                          2.4.0                       2
+
+
+----------------------------------------------------------------------------------------
+Ionut Chirvasoiu is using SS0099
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion      VersionMajor
+------------ -----------                                     --------------      ------------
+SS0099       7-Zip 18.05 (x64)                               18.05                         18
+SS0099       ESET Security                                   11.0.159.9                    11
+SS0099       Dropbox                                         56.4.94                       56
+SS0099       EaseUS Todo Backup Free 10.6                    10.6                            
+SS0099       Dropbox Update Helper                           1.3.127.1                      1
+SS0099       McAfee Safe Connect                             1.6.0.223                      1
+
+
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       VersionMajor
+------------ -----------                                                   --------------       ------------
+
+
+----------------------------------------------------------------------------------------
+Cristian Oltean is using SS0062. Employee is part of team Anevia.
+
+ComputerName ProgramName                                                    DisplayVersion   VersionMajor
+------------ -----------                                                    --------------   ------------
+SS0062       SoapUI 5.4.0-EB 5.4.0-EB                                       5.4.0-EB                    5
+SS0062       7-Zip 18.05 (x64)                                              18.05                      18
+SS0062       MediaInfo 18.05                                                18.05                        
+SS0062       MicTray                                                        1.6.0.1                     1
+SS0062       OpenVPN 2.4.6-I602                                             2.4.6-I602                   
+SS0062       Pulse Secure Setup Client 64-bit Activex Control               2.1.1.1                      
+SS0062       Shrew Soft VPN Client                                                                       
+SS0062       Counter-Strike                                                                              
+SS0062       WinRAR 5.60 (64-bit)                                           5.60.0                      5
+SS0062       LEAPWORK 2.5.951                                               2.5.951                     2
+SS0062       ESET Security                                                  11.0.159.9                 11
+SS0062       FortiClient                                                    6.0.0.0067                  6
+SS0062       Pulse Secure                                                   5.3.1021                    5
+SS0062       Battle.net                                                                                  
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.5.03040                    
+SS0062       Dropbox                                                        56.4.94                    56
+SS0062       OpenEye/dvbanalyzer (remove only)                                                           
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7               12
+SS0062       Juniper Networks Network Connect 7.1.0                         7.1.0.18193                  
+SS0062       Juniper Networks, Inc. Setup Client Activex Control            2.1.1.1                      
+SS0062       Juniper Networks Secure Application Manager                    6.5.0.16339                  
+SS0062       Notepad++ (32-bit x86)                                         7.5.7                       7
+SS0062       Pulse Secure 5.3                                               5.3.1021                     
+SS0062       Pulse Secure Setup Client Activex Control                      2.1.1.1                      
+SS0062       Skype version 8.25                                             8.25                        8
+SS0062       Sophos SSL VPN Client 2.1                                      2.1                          
+SS0062       StarCraft II                                                                                
+SS0062       Steam                                                          2.10.91.91                   
+SS0062       TeamViewer 13                                                  13.1.3629                  13
+SS0062       PROMAX TS Analyser                                                                          
+SS0062       TSReader Lite 2.8.53                                           2.8.53                      2
+SS0062       WinPcap 4.1.3                                                  4.1.0.2980                  4
+SS0062       WinSCP 5.13.3                                                  5.13.3                      5
+SS0062       Wireshark 2.6.1 64-bit                                         2.6.1                       2
+SS0062       Dropbox Update Helper                                          1.3.127.1                   1
+SS0062       eM Client                                                      7.1.33101.0                 7
+SS0062       Hangouts Chat                                                  18.7.32                    18
+SS0062       Cisco AnyConnect Diagnostics and Reporting Tool                4.5.03040                   4
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7               12
+SS0062       SuperPuTTY                                                     1.4.0.8                     1
+SS0062       MP4 Inspector version 0.1.2.0                                  0.1.2.0                     0
+SS0062       Media Analyzer                                                 1.0.0                       1
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.5.03040                   4
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                      DisplayVersion        VersionMajor
+------------ -----------                                                                                      --------------        ------------
+SS0063       Studio 3T                                                                                        2018.2.4                      2018
+SS0063       ANT Drivers Installer x64                                                                        2.3.4                            2
+SS0063       Battle.net                                                                                                                         
+SS0063       Visual Studio Community 2017                                                                     15.7.27703.2042                   
+SS0063       Robo 3T 1.2.1                                                                                    1.2.1                             
+SS0063       StarCraft II                                                                                                                       
+SS0063       Elevated Installer                                                                               6.6.0.0                          6
+SS0063       Garmin Express                                                                                   6.6.0.0                          6
+SS0063       Garmin Express                                                                                   6.6.0.0                          6
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20180904
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                                                               
+------------ -----------                                                                                               
+SS0086       7-Zip 18.05 (x64)                                                                                         
+SS0086       Notepad++ (64-bit x64)                                                                                    
+SS0086       OpenVPN 2.4.4-I601                                                                                        
+SS0086       Shrew Soft VPN Client                                                                                     
+SS0086       Total Commander 64-bit (Remove or Repair)                                                                 
+SS0086       USBPcap 1.2.0.3                                                                                           
+SS0086       PuTTY release 0.70 (64-bit)                                                                               
+SS0086       ESET Security                                                                                             
+SS0086       Killer Performance Driver Suite                                                                           
+SS0086       Dell Command | Power Manager                                                                              
+SS0086       ComLink                                                                                                   
+SS0086       Dropbox                                                                                                   
+SS0086       EaseUS Todo Backup Free 10.6                                                                              
+SS0086       TeamViewer 13                                                                                             
+SS0086       WinPcap 4.1.3                                                                                             
+SS0086       WinSCP 5.13.3                                                                                             
+SS0086       Wireshark 2.6.2 64-bit                                                                                    
+SS0086       Dropbox Update Helper                                                                                     
+SS0086       Skype™ 7.41                                                                                               
+SS0086       Flowdock                                                                                                  
+SS0086       CDBurnerXP                                                                                                
+SS0086       Thunderbolt™ Software                                                                                     
+SS0086       Sql Server Customer Experience Improvement Program                                                        
+SS0086       Dell Update                                                                                               
+SS0086       Asmedia USB Host Controller Driver                                                                        
+SS0086       Dell Command | Update                                                                                     
+
+
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       VersionMajor
+------------ -----------                                                   --------------       ------------
+
+
+----------------------------------------------------------------------------------------
+Dan Radu is using SS0061
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion   VersionMajor
+------------ -----------                                                   --------------   ------------
+SS0061       Studio 3T                                                     2018.2.4                 2018
+SS0061       MicTray                                                       1.6.0.1                     1
+SS0061       MySQL Workbench 6.3 CE                                        6.3.10                      6
+
+
+----------------------------------------------------------------------------------------
+Cristian Oltean is using SS0062. Employee is part of team Anevia.
+
+ComputerName ProgramName                                                    DisplayVersion   VersionMajor
+------------ -----------                                                    --------------   ------------
+SS0062       SoapUI 5.4.0-EB 5.4.0-EB                                       5.4.0-EB                    5
+SS0062       7-Zip 18.05 (x64)                                              18.05                      18
+SS0062       MediaInfo 18.05                                                18.05                        
+SS0062       MicTray                                                        1.6.0.1                     1
+SS0062       OpenVPN 2.4.6-I602                                             2.4.6-I602                   
+SS0062       Pulse Secure Setup Client 64-bit Activex Control               2.1.1.1                      
+SS0062       Shrew Soft VPN Client                                                                       
+SS0062       Counter-Strike                                                                              
+SS0062       WinRAR 5.60 (64-bit)                                           5.60.0                      5
+SS0062       LEAPWORK 2.5.951                                               2.5.951                     2
+SS0062       ESET Security                                                  11.0.159.9                 11
+SS0062       FortiClient                                                    6.0.0.0067                  6
+SS0062       Pulse Secure                                                   5.3.1021                    5
+SS0062       Battle.net                                                                                  
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.5.03040                    
+SS0062       Dropbox                                                        56.4.94                    56
+SS0062       OpenEye/dvbanalyzer (remove only)                                                           
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7               12
+SS0062       Juniper Networks Network Connect 7.1.0                         7.1.0.18193                  
+SS0062       Juniper Networks, Inc. Setup Client Activex Control            2.1.1.1                      
+SS0062       Juniper Networks Secure Application Manager                    6.5.0.16339                  
+SS0062       Notepad++ (32-bit x86)                                         7.5.8                       7
+SS0062       Pulse Secure 5.3                                               5.3.1021                     
+SS0062       Pulse Secure Setup Client Activex Control                      2.1.1.1                      
+SS0062       Skype version 8.25                                             8.25                        8
+SS0062       Sophos SSL VPN Client 2.1                                      2.1                          
+SS0062       StarCraft II                                                                                
+SS0062       Steam                                                          2.10.91.91                   
+SS0062       TeamViewer 13                                                  13.1.3629                  13
+SS0062       PROMAX TS Analyser                                                                          
+SS0062       TSReader Lite 2.8.53                                           2.8.53                      2
+SS0062       WinPcap 4.1.3                                                  4.1.0.2980                  4
+SS0062       WinSCP 5.13.3                                                  5.13.3                      5
+SS0062       Wireshark 2.6.1 64-bit                                         2.6.1                       2
+SS0062       Dropbox Update Helper                                          1.3.127.1                   1
+SS0062       eM Client                                                      7.1.33101.0                 7
+SS0062       Hangouts Chat                                                  18.7.32                    18
+SS0062       Cisco AnyConnect Diagnostics and Reporting Tool                4.5.03040                   4
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7               12
+SS0062       SuperPuTTY                                                     1.4.0.8                     1
+SS0062       MP4 Inspector version 0.1.2.0                                  0.1.2.0                     0
+SS0062       Media Analyzer                                                 1.0.0                       1
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.5.03040                   4
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                      DisplayVe
+                                                                                                              rsion    
+------------ -----------                                                                                      ---------
+SS0063       Studio 3T                                                                                        2018.2.4 
+SS0063       ANT Drivers Installer x64                                                                        2.3.4    
+SS0063       Battle.net                                                                                                
+SS0063       Visual Studio Community 2017                                                                     15.7.2...
+SS0063       Robo 3T 1.2.1                                                                                    1.2.1    
+SS0063       StarCraft II                                                                                              
+SS0063       Elevated Installer                                                                               6.6.0.0  
+SS0063       Garmin Express                                                                                   6.6.0.0  
+SS0063       Garmin Express                                                                                   6.6.0.0  
+
+
+----------------------------------------------------------------------------------------
+Alex Puiu is using SS0066
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                        Display
+                                                                                                                Version
+------------ -----------                                                                                        -------
+SS0066       Android Studio                                                                                     1.0    
+SS0066       GIMP 2.8.18                                                                                        2.8.18 
+SS0066       Counter-Strike                                                                                            
+SS0066       WinRAR 5.40 (64-bit)                                                                               5.40.0 
+SS0066       PuTTY release 0.70 (64-bit)                                                                        0.70...
+SS0066       Epic Games Launcher Prerequisites (x64)                                                            1.0.0.0
+SS0066       DisplayDriverAnalyzer                                                                              398.36 
+SS0066       Nvidia Share                                                                                       3.14...
+SS0066       Battle.net                                                                                                
+SS0066       Diablo III                                                                                                
+SS0066       League of Legends                                                                                  1.0    
+SS0066       PunkBuster Services                                                                                0.993  
+SS0066       Steam                                                                                              2.10...
+SS0066       TeamViewer 13                                                                                      13.1...
+SS0066       World of Warcraft                                                                                         
+SS0066       XAMPP                                                                                              7.2.5-0
+SS0066       AOMEI Partition Assistant Standard Edition 7.0                                                            
+SS0066       SD Card Formatter                                                                                  5.0.0  
+SS0066       PS4 Remote Play                                                                                    2.6....
+SS0066       Win32DiskImager version 1.0.0                                                                      1.0.0  
+SS0066       Launcher Prerequisites (x64)                                                                       1.0.0.0
+
+
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                DisplayVersion VersionMajor
+------------ -----------                                                -------------- ------------
+SS0105       Apple Application Support (64-bit)                         6.4                       6
+SS0105       Apple Mobile Device Support                                11.3.1.6                 11
+SS0105       Battle.net                                                                            
+SS0105       RaidCall                                                   8.2.0-1.0.3...             
+SS0105       World of Warcraft                                                                     
+SS0105       Apple Application Support (32-bit)                         6.4                       6
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20180924
+----------------------------------------------------------------------------------------
+Cristian Zara is using SS0117
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                     DisplayVersion VersionMajor
+------------ -----------                     -------------- ------------
+
+
+----------------------------------------------------------------------------------------
+Alex Puiu is using SS0066
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0066       Android Studio                                                                       
+SS0066       GIMP 2.8.18                                                                          
+SS0066       Counter-Strike                                                                       
+SS0066       WinRAR 5.40 (64-bit)                                                                 
+SS0066       PuTTY release 0.70 (64-bit)                                                          
+SS0066       Epic Games Launcher Prerequisites (x64)                                              
+SS0066       VNC Viewer 6.18.625                                                                  
+SS0066       DisplayDriverAnalyzer                                                                
+SS0066       Nvidia Share                                                                         
+SS0066       Battle.net                                                                           
+SS0066       Diablo III                                                                           
+SS0066       League of Legends                                                                    
+SS0066       PunkBuster Services                                                                  
+SS0066       Steam                                                                                
+SS0066       TeamViewer 13                                                                        
+SS0066       World of Warcraft                                                                    
+SS0066       XAMPP                                                                                
+SS0066       AOMEI Partition Assistant Standard Edition 7.0                                       
+SS0066       SD Card Formatter                                                                    
+SS0066       PS4 Remote Play                                                                      
+SS0066       Win32DiskImager version 1.0.0                                                        
+SS0066       Launcher Prerequisites (x64)                                                         
+
+
+----------------------------------------------------------------------------------------
+Andrei Groza is using SS0067
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion   VersionMajor
+------------ -----------                                     --------------   ------------
+
+
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                            DisplayVersion
+------------ -----------                                                            --------------
+SS0068       Visual Studio Community 2017                                           15.5.27130....
+SS0068       GIMP 2.8.22                                                            2.8.22        
+SS0068       SWI-Prolog (remove only)                                                             
+SS0068       WinRAR 5.40 (64-bit)                                                   5.40.0        
+SS0068       Python 2.7.14 (64-bit)                                                 2.7.14150     
+SS0068       VS Script Debugging Common                                             16.0.76.0     
+SS0068       Node.js                                                                8.9.4         
+SS0068       MySQL Workbench 6.2 CE                                                 6.2.5         
+SS0068       Application Verifier x64 External Package                              10.1.16299.15 
+SS0068       Application Verifier x64 External Package                              10.1.15063.674
+SS0068       VS JIT Debugger                                                        16.0.76.0     
+SS0068       Erlang OTP 20 (9.1)                                                                  
+SS0068       RabbitMQ Server 3.7.0                                                  3.7.0         
+SS0068       TeamViewer 12                                                          12.0.90922    
+SS0068       XAMPP                                                                  7.1.1-0       
+SS0068       vcpp_crt.redist.clickonce                                              14.12.25830   
+SS0068       WinAppDeploy                                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.15063.674
+SS0068       VS Immersive Activate Helper                                           16.0.76.0     
+SS0068       WinAppDeploy                                                           10.1.16299.15 
+SS0068       Kits Configuration Installer                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.16299.15 
+SS0068       Gtk# for .Net 2.12.26                                                  2.12.26       
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0086       7-Zip 18.05 (x64)                                                                    
+SS0086       Notepad++ (64-bit x64)                                                               
+SS0086       OpenVPN 2.4.4-I601                                                                   
+SS0086       Shrew Soft VPN Client                                                                
+SS0086       Total Commander 64-bit (Remove or Repair)                                            
+SS0086       USBPcap 1.2.0.3                                                                      
+SS0086       PuTTY release 0.70 (64-bit)                                                          
+SS0086       ESET Security                                                                        
+SS0086       Killer Performance Driver Suite                                                      
+SS0086       Dell Command | Power Manager                                                         
+SS0086       ComLink                                                                              
+SS0086       Dropbox                                                                              
+SS0086       EaseUS Todo Backup Free 10.6                                                         
+SS0086       TeamViewer 13                                                                        
+SS0086       WinPcap 4.1.3                                                                        
+SS0086       WinSCP 5.13.3                                                                        
+SS0086       Wireshark 2.6.2 64-bit                                                               
+SS0086       Dropbox Update Helper                                                                
+SS0086       Thunderbolt™ Software                                                                
+SS0086       Skype™ 7.41                                                                          
+SS0086       Flowdock                                                                             
+SS0086       CDBurnerXP                                                                           
+SS0086       Sql Server Customer Experience Improvement Program                                   
+SS0086       Dell Update                                                                          
+SS0086       Asmedia USB Host Controller Driver                                                   
+SS0086       Dell Command | Update                                                                
+
+
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                     DisplayVersion VersionMajor
+------------ -----------                     -------------- ------------
+SS0105       Apple Application Support (6... 6.4                       6
+SS0105       Apple Mobile Device Support     11.3.1.6                 11
+SS0105       Battle.net                                                 
+SS0105       RaidCall                        8.2.0-1.0.3...             
+SS0105       World of Warcraft                                          
+SS0105       Apple Application Support (3... 6.4                       6
+
+
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       Ve
+                                                                                                rs
+                                                                                                io
+                                                                                                nM
+                                                                                                aj
+                                                                                                or
+------------ -----------                                                   --------------       --
+
+
+----------------------------------------------------------------------------------------
+Dan Radu is using SS0061
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName         DisplayVersion VersionMajor
+------------ -----------         -------------- ------------
+SS0061       Studio 3T           2018.2.4               2018
+SS0061       MicTray             1.6.0.1                   1
+SS0061       Synaptics Pointi... 19.0.19.65               19
+SS0061       MySQL Workbench ... 6.3.10                    6
+SS0061       ScannerUtilityIn... 1.0.0.0                   1
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0063       Studio 3T                                                                            
+SS0063       ANT Drivers Installer x64                                                            
+SS0063       Battle.net                                                                           
+SS0063       Visual Studio Community 2017                                                         
+SS0063       Robo 3T 1.2.1                                                                        
+SS0063       StarCraft II                                                                         
+SS0063       Elevated Installer                                                                   
+SS0063       Garmin Express                                                                       
+SS0063       Garmin Express                                                                       
+
+
+----------------------------------------------------------------------------------------
+Anca Neghiu is using SS0080
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion   VersionMajor
+------------ -----------                                     --------------   ------------
+SS0080       Visual Studio Community 2017                    15.5.27130.2027              
+SS0080       CPUID CPU-Z 1.82                                1.82             1           
+SS0080       MediaInfo 0.7.95                                0.7.95                       
+SS0080       Logitech SetPoint 6.67                          6.67.83                      
+SS0080       Counter-Strike                                                               
+SS0080       Total Commander 64-bit (Remove or Repair)       9.10             9           
+SS0080       USBPcap 1.1.0.0-g794bf26-5                      1.1.0.0-g794b...             
+SS0080       IIS Express Application Compatibility Databa...                              
+SS0080       VS Script Debugging Common                      16.0.76.0        16          
+SS0080       VS WCF Debugging                                16.0.76.0        16          
+SS0080       Node.js                                         8.9.4            8           
+SS0080       PuTTY release 0.70 (64-bit)                     0.70.0.0         0           
+SS0080       Active Directory Authentication Library for ... 13.1.4001.0      13          
+SS0080       Perfect Player version 1.1.4                    1.1.4                        
+SS0080       IIS Express Application Compatibility Databa...                              
+SS0080       FortiClient                                     5.4.3.0870       5           
+SS0080       Application Verifier x64 External Package       10.1.16299.15    10          
+SS0080       VS JIT Debugger                                 16.0.76.0        16          
+SS0080       TVR 4.7.7                                       4.7.7                        
+SS0080       Service Pack 1 for SQL Server 2012 (KB2674319)  11.1.3000.0                  
+SS0080       GDR 3128 for SQL Server 2012 (KB2793634)        11.1.3128.0                  
+SS0080       GDR 3156 for SQL Server 2012 (KB3045318)        11.1.3156.0                  
+SS0080       WatchGuard Mobile VPN with SSL client 11.10.0                                
+SS0080       OpenConnect-GUI                                 1.5.1                        
+SS0080       Opera Stable 55.0.2994.61                       55.0.2994.61                 
+SS0080       ProM 6.7                                        Regular                      
+SS0080       Steam                                           2.10.91.91                   
+SS0080       TeamViewer 13                                   13.0.6447        13          
+SS0080       Xiao Stenography 2.6.1                          2.6.1                        
+SS0080       vcpp_crt.redist.clickonce                       14.12.25830      14          
+SS0080       Entity Framework Designer for Visual Studio ... 11.1.20702.00    11          
+SS0080       SQL Server 2012 Common Files                    11.1.3000.0      11          
+SS0080        Tools for .Net 3.5                             3.11.50727       3           
+SS0080       Visual C++ Library CRT Desktop Appx Package     14.12.25830      14          
+SS0080       Sql Server Customer Experience Improvement P... 11.1.3000.0      11          
+SS0080       CyberLink Power Media Player 14                 14.0.5.6909      14          
+SS0080       Uninstall Finalizer                             2.6.30508.1601   2           
+SS0080       Win32DiskImager version 1.0.0                   1.0.0            1           
+SS0080       Install Finalizer                               2.6.30508.1601   2           
+SS0080       SQL Server 2012 Database Engine Shared          11.1.3000.0      11          
+SS0080       Visual C++ Library CRT Desktop Appx Package     14.12.25830      14          
+SS0080       CyberLink PowerDirector 14                      14.0.2.3309      14          
+SS0080       SQL Server 2012 Common Files                    11.1.3000.0      11          
+SS0080       Kits Configuration Installer                    10.1.16299.15    10          
+SS0080       SQL Server 2012 Database Engine Services        11.1.3000.0      11          
+SS0080       VS Immersive Activate Helper                    16.0.76.0        16          
+SS0080       Prerequisites for SSDT                          11.0.2100.60     11          
+SS0080       WinAppDeploy                                    10.1.16299.15    10          
+SS0080       MSI Development Tools                           10.1.16299.15    10          
+SS0080       Visual C++ Library CRT Appx Resource Package    14.12.25830      14          
+SS0080       windows_toolscorepkg                            15.0.27128       15          
+SS0080       SQL Server 2012 Database Engine Services        11.1.3000.0      11          
+SS0080       SQL Server 2012 Database Engine Shared          11.1.3000.0      11          
+SS0080       Astrometa DVB-T2                                1.00                         
+SS0080       Visual C++ Library CRT Appx Package             14.12.25830      14          
+SS0080       Visual C++ Library CRT Desktop Appx Package     14.12.25830      14          
+SS0080       Visual C++ Library CRT Appx Package             14.12.25830      14          
+SS0080       Entity Framework 6.1.3 Tools  for Visual Stu... 6.1.60104.0      6           
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20181011
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                                      DisplayVersion       VersionMajor
+------------ -----------                                                                                                      --------------       ------------
+SS0105       Apple Application Support (64-bit)                                                                               6.4                             6
+SS0105       Apple Mobile Device Support                                                                                      11.3.1.6                       11
+SS0105       Battle.net                                                                                                                                        
+SS0105       RaidCall                                                                                                         8.2.0-1.0.3231.155               
+SS0105       World of Warcraft                                                                                                                                 
+SS0105       Apple Application Support (32-bit)                                                                               6.4                             6
+
+
+----------------------------------------------------------------------------------------
+Andrei Groza is using SS0067
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                        DisplayVersion   VersionMajor
+------------ -----------                                        --------------   ------------
+
+
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                            DisplayVersion      VersionMajor
+------------ -----------                                                            --------------      ------------
+SS0068       Visual Studio Community 2017                                           15.5.27130.2024                 
+SS0068       SWI-Prolog (remove only)                                                                               
+SS0068       WinRAR 5.40 (64-bit)                                                   5.40.0                         5
+SS0068       Python 2.7.14 (64-bit)                                                 2.7.14150                      2
+SS0068       VS Script Debugging Common                                             16.0.76.0                     16
+SS0068       Node.js                                                                8.9.4                          8
+SS0068       MySQL Workbench 6.2 CE                                                 6.2.5                          6
+SS0068       Application Verifier x64 External Package                              10.1.16299.15                 10
+SS0068       Application Verifier x64 External Package                              10.1.15063.674                10
+SS0068       VS JIT Debugger                                                        16.0.76.0                     16
+SS0068       Erlang OTP 20 (9.1)                                                                                    
+SS0068       RabbitMQ Server 3.7.0                                                  3.7.0                           
+SS0068       TeamViewer 12                                                          12.0.90922                    12
+SS0068       XAMPP                                                                  7.1.1-0                        7
+SS0068       vcpp_crt.redist.clickonce                                              14.12.25830                   14
+SS0068       WinAppDeploy                                                           10.1.15063.674                10
+SS0068       MSI Development Tools                                                  10.1.15063.674                10
+SS0068       VS Immersive Activate Helper                                           16.0.76.0                     16
+SS0068       WinAppDeploy                                                           10.1.16299.15                 10
+SS0068       Kits Configuration Installer                                           10.1.15063.674                10
+SS0068       MSI Development Tools                                                  10.1.16299.15                 10
+SS0068       Gtk# for .Net 2.12.26                                                  2.12.26                        2
+
+
+----------------------------------------------------------------------------------------
+Alin Farcas is using SS0081
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                                                     DisplayVersion   VersionMajor
+------------ -----------                                                                                                                     --------------   ------------
+SS0081       HeidiSQL                                                                                                                                                     
+SS0081       Logitech SetPoint 6.67                                                                                                          6.67.83                      
+SS0081       Studio 3T                                                                                                                       5.3.5                       5
+SS0081       PuTTY release 0.69 (64-bit)                                                                                                     0.69.0.0                    0
+SS0081       AnyDesk                                                                                                                         ad 4.2.3                    4
+SS0081       Audacity 2.1.3                                                                                                                  2.1.3                       2
+SS0081       FileZilla Client 3.28.0                                                                                                         3.28.0                      3
+SS0081       Opera Stable 56.0.3051.36                                                                                                       56.0.3051.36                 
+SS0081       TeamViewer 13                                                                                                                   13.2.14327                 13
+SS0081       XAMPP                                                                                                                           7.2.4-0                     7
+SS0081       CyberLink Power Media Player 14                                                                                                 14.0.5.6909                14
+SS0081       CyberLink PowerDirector 14                                                                                                      14.0.2.3309                14
+SS0081       Gtk# for .Net 2.12.26                                                                                                           2.12.26                     2
+SS0081       Remote Utilities - Viewer                                                                                                       6.255.6801                  6
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                    DisplayVersion   VersionMajor
+------------ -----------                                                    --------------   ------------
+SS0086       7-Zip 18.05 (x64)                                              18.05                      18
+SS0086       Notepad++ (64-bit x64)                                         7.5.8                       7
+SS0086       OpenVPN 2.4.4-I601                                             2.4.4-I601                   
+SS0086       Shrew Soft VPN Client                                                                       
+SS0086       Total Commander 64-bit (Remove or Repair)                      9.12                        9
+SS0086       USBPcap 1.2.0.3                                                1.2.0.3                      
+SS0086       PuTTY release 0.70 (64-bit)                                    0.70.0.0                    0
+SS0086       Killer Performance Driver Suite                                1.5.1871                    1
+SS0086       ESET Security                                                  11.0.159.9                 11
+SS0086       Dell Command | Power Manager                                   2.2.1                       2
+SS0086       ComLink                                                                                     
+SS0086       Dropbox                                                        59.4.93                    59
+SS0086       EaseUS Todo Backup Free 10.6                                   10.6                         
+SS0086       TeamViewer 13                                                  13.2.5287                  13
+SS0086       WinPcap 4.1.3                                                  4.1.0.2980                  4
+SS0086       WinSCP 5.13.3                                                  5.13.3                      5
+SS0086       Wireshark 2.6.2 64-bit                                         2.6.2                       2
+SS0086       Dropbox Update Helper                                          1.3.141.1                   1
+SS0086       Thunderbolt™ Software                                          17.4.77.400                17
+SS0086       Skype™ 7.41                                                    7.41.101                    7
+SS0086       Win32DiskImager version 1.0.0                                  1.0.0                       1
+SS0086       Flowdock                                                       1.0.3                       1
+SS0086       CDBurnerXP                                                     4.5.8.6795                   
+SS0086       Sql Server Customer Experience Improvement Program             10.0.1600.22               10
+SS0086       Dell Update                                                    2.1.3.0                     2
+SS0086       Asmedia USB Host Controller Driver                             1.16.54.1                   1
+SS0086       Dell Command | Update                                          2.4.0                       2
+
+
+----------------------------------------------------------------------------------------
+Cristian Zara is using SS0117
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                    DisplayVersion     VersionMajor
+------------ -----------                                                    --------------     ------------
+
+
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       VersionMajor
+------------ -----------                                                   --------------       ------------
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                                      DisplayVersion        VersionMajor
+------------ -----------                                                                                      --------------        ------------
+SS0063       Studio 3T                                                                                        2018.2.4                      2018
+SS0063       ANT Drivers Installer x64                                                                        2.3.4                            2
+SS0063       Battle.net                                                                                                                         
+SS0063       Visual Studio Community 2017                                                                     15.7.27703.2042                   
+SS0063       Robo 3T 1.2.1                                                                                    1.2.1                             
+SS0063       StarCraft II                                                                                                                       
+SS0063       Elevated Installer                                                                               6.6.0.0                          6
+SS0063       Garmin Express                                                                                   6.6.0.0                          6
+SS0063       Garmin Express                                                                                   6.6.0.0                          6
+
+
+----------------------------------------------------------------------------------------
+Ionut Chirvasoiu is using SS0099
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion      VersionMajor
+------------ -----------                                     --------------      ------------
+SS0099       7-Zip 18.05 (x64)                               18.05                         18
+SS0099       Shrew Soft VPN Client                                                           
+SS0099       ESET Security                                   11.0.159.9                    11
+SS0099       Dropbox                                         59.4.93                       59
+SS0099       EaseUS Todo Backup Free 10.6                    10.6                            
+SS0099       Dropbox Update Helper                           1.3.141.1                      1
+SS0099       McAfee Safe Connect                             1.6.0.223                      1
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20181015
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       Ve
+                                                                                                rs
+                                                                                                io
+                                                                                                nM
+                                                                                                aj
+                                                                                                or
+------------ -----------                                                   --------------       --
+
+
+----------------------------------------------------------------------------------------
+Alex Puiu is using SS0066
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0066       Android Studio                                                                       
+SS0066       GIMP 2.8.18                                                                          
+SS0066       Counter-Strike                                                                       
+SS0066       WinRAR 5.40 (64-bit)                                                                 
+SS0066       PuTTY release 0.70 (64-bit)                                                          
+SS0066       Epic Games Launcher Prerequisites (x64)                                              
+SS0066       VNC Viewer 6.18.625                                                                  
+SS0066       DisplayDriverAnalyzer                                                                
+SS0066       Nvidia Share                                                                         
+SS0066       Battle.net                                                                           
+SS0066       Diablo III                                                                           
+SS0066       League of Legends                                                                    
+SS0066       PunkBuster Services                                                                  
+SS0066       Steam                                                                                
+SS0066       TeamViewer 13                                                                        
+SS0066       World of Warcraft                                                                    
+SS0066       XAMPP                                                                                
+SS0066       AOMEI Partition Assistant Standard Edition 7.0                                       
+SS0066       SD Card Formatter                                                                    
+SS0066       Win32DiskImager version 1.0.0                                                        
+SS0066       PS4 Remote Play                                                                      
+SS0066       Launcher Prerequisites (x64)                                                         
+
+
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                            DisplayVersion
+------------ -----------                                                            --------------
+SS0068       Visual Studio Community 2017                                           15.5.27130....
+SS0068       SWI-Prolog (remove only)                                                             
+SS0068       WinRAR 5.40 (64-bit)                                                   5.40.0        
+SS0068       Python 2.7.14 (64-bit)                                                 2.7.14150     
+SS0068       VS Script Debugging Common                                             16.0.76.0     
+SS0068       Node.js                                                                8.9.4         
+SS0068       MySQL Workbench 6.2 CE                                                 6.2.5         
+SS0068       Application Verifier x64 External Package                              10.1.16299.15 
+SS0068       Application Verifier x64 External Package                              10.1.15063.674
+SS0068       VS JIT Debugger                                                        16.0.76.0     
+SS0068       RabbitMQ Server 3.7.0                                                  3.7.0         
+SS0068       TeamViewer 12                                                          12.0.90922    
+SS0068       XAMPP                                                                  7.1.1-0       
+SS0068       vcpp_crt.redist.clickonce                                              14.12.25830   
+SS0068       WinAppDeploy                                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.15063.674
+SS0068       VS Immersive Activate Helper                                           16.0.76.0     
+SS0068       WinAppDeploy                                                           10.1.16299.15 
+SS0068       Kits Configuration Installer                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.16299.15 
+SS0068       Gtk# for .Net 2.12.26                                                  2.12.26       
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0086       7-Zip 18.05 (x64)                                                                    
+SS0086       Notepad++ (64-bit x64)                                                               
+SS0086       OpenVPN 2.4.4-I601                                                                   
+SS0086       Shrew Soft VPN Client                                                                
+SS0086       Total Commander 64-bit (Remove or Repair)                                            
+SS0086       USBPcap 1.2.0.3                                                                      
+SS0086       PuTTY release 0.70 (64-bit)                                                          
+SS0086       Killer Performance Driver Suite                                                      
+SS0086       ESET Security                                                                        
+SS0086       Dell Command | Power Manager                                                         
+SS0086       ComLink                                                                              
+SS0086       Dropbox                                                                              
+SS0086       EaseUS Todo Backup Free 10.6                                                         
+SS0086       TeamViewer 13                                                                        
+SS0086       WinPcap 4.1.3                                                                        
+SS0086       WinSCP 5.13.3                                                                        
+SS0086       Wireshark 2.6.2 64-bit                                                               
+SS0086       Dropbox Update Helper                                                                
+SS0086       Thunderbolt™ Software                                                                
+SS0086       Skype™ 7.41                                                                          
+SS0086       Win32DiskImager version 1.0.0                                                        
+SS0086       Flowdock                                                                             
+SS0086       CDBurnerXP                                                                           
+SS0086       Sql Server Customer Experience Improvement Program                                   
+SS0086       Dell Update                                                                          
+SS0086       Asmedia USB Host Controller Driver                                                   
+SS0086       Dell Command | Update                                                                
+
+
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                DisplayVersion VersionMajo
+                                                                                                 r
+------------ -----------                                                -------------- -----------
+SS0105       Apple Application Support (64-bit)                         6.4                      6
+SS0105       Apple Mobile Device Support                                11.3.1.6                11
+SS0105       Battle.net                                                                           
+SS0105       World of Warcraft                                                                    
+SS0105       Apple Application Support (32-bit)                         6.4                      6
+
+
+----------------------------------------------------------------------------------------
+Cristian Zara is using SS0117
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion   VersionMajor
+------------ -----------                                     --------------   ------------
+
+
+----------------------------------------------------------------------------------------
+Dan Radu is using SS0061
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                     DisplayVersion VersionMajor
+------------ -----------                     -------------- ------------
+SS0061       Studio 3T                       2018.2.4               2018
+SS0061       MySQL Workbench 6.3 CE          6.3.10                    6
+
+
+----------------------------------------------------------------------------------------
+Cristian Oltean is using SS0062. Employee is part of team Anevia.
+
+ComputerName ProgramName                                                    DisplayVersion   Versi
+                                                                                             onMaj
+                                                                                                or
+------------ -----------                                                    --------------   -----
+SS0062       SoapUI 5.4.0-EB 5.4.0-EB                                       5.4.0-EB             5
+SS0062       7-Zip 18.05 (x64)                                              18.05               18
+SS0062       MediaInfo 18.05                                                18.05                 
+SS0062       MicTray                                                        1.6.0.1              1
+SS0062       OpenVPN 2.4.6-I602                                             2.4.6-I602            
+SS0062       Pulse Secure Setup Client 64-bit Activex Control               2.1.1.1               
+SS0062       Shrew Soft VPN Client                                                                
+SS0062       Counter-Strike                                                                       
+SS0062       Sublime Text Build 3176                                                              
+SS0062       WinRAR 5.60 (64-bit)                                           5.60.0               5
+SS0062       DNE Update                                                     4.35.0.18936         4
+SS0062       Cisco Systems VPN Client 5.0.07.0440                           5.0.7                5
+SS0062       LEAPWORK 2.5.951                                               2.5.951              2
+SS0062       ESET Security                                                  11.0.159.9          11
+SS0062       FortiClient                                                    6.0.0.0067           6
+SS0062       Pulse Secure                                                   5.3.1021             5
+SS0062       Battle.net                                                                           
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103             
+SS0062       Dropbox                                                        59.4.93             59
+SS0062       OpenEye/dvbanalyzer (remove only)                                                    
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       Juniper Networks Network Connect 7.1.0                         7.1.0.18193           
+SS0062       Juniper Networks, Inc. Setup Client Activex Control            2.1.1.1               
+SS0062       Juniper Networks Secure Application Manager                    6.5.0.16339           
+SS0062       Notepad++ (32-bit x86)                                         7.5.8                7
+SS0062       Pulse Secure 5.3                                               5.3.1021              
+SS0062       Pulse Secure Setup Client Activex Control                      2.1.1.1               
+SS0062       Skype version 8.25                                             8.25                 8
+SS0062       Sophos SSL VPN Client 2.1                                      2.1                   
+SS0062       StarCraft II                                                                         
+SS0062       Steam                                                          2.10.91.91            
+SS0062       TeamViewer 13                                                  13.2.14327          13
+SS0062       PROMAX TS Analyser                                                                   
+SS0062       TSReader Lite 2.8.53                                           2.8.53               2
+SS0062       WinPcap 4.1.3                                                  4.1.0.2980           4
+SS0062       WinSCP 5.13.3                                                  5.13.3               5
+SS0062       Wireshark 2.6.1 64-bit                                         2.6.1                2
+SS0062       Dropbox Update Helper                                          1.3.141.1            1
+SS0062       Hangouts Chat                                                  18.8.311            18
+SS0062       Pulse Application Launcher                                     8.2.869              8
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103            4
+SS0062       Cisco AnyConnect Diagnostics and Reporting Tool                4.6.01103            4
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       SuperPuTTY                                                     1.4.0.8              1
+SS0062       MP4 Inspector version 0.1.2.0                                  0.1.2.0              0
+SS0062       Media Analyzer                                                 1.0.0                1
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                                          
+------------ -----------                                                                          
+SS0063       Studio 3T                                                                            
+SS0063       ANT Drivers Installer x64                                                            
+SS0063       Battle.net                                                                           
+SS0063       Visual Studio Community 2017                                                         
+SS0063       Robo 3T 1.2.1                                                                        
+SS0063       StarCraft II                                                                         
+SS0063       Elevated Installer                                                                   
+SS0063       Garmin Express                                                                       
+SS0063       Garmin Express                                                                       
+
+
+----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
+Checked on 20181017
+----------------------------------------------------------------------------------------
+Cristian Zara is using SS0117
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                    DisplayVersion     Ver
+                                                                                               sio
+                                                                                               nMa
+                                                                                               jor
+------------ -----------                                                    --------------     ---
+
+
+----------------------------------------------------------------------------------------
+Dan Radu is using SS0061
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion   Versio
+                                                                                            nMajor
+------------ -----------                                                   --------------   ------
+SS0061       Studio 3T                                                     2018.2.4           2018
+SS0061       MySQL Workbench 6.3 CE                                        6.3.10                6
+
+
+----------------------------------------------------------------------------------------
+Andrei Groza is using SS0067
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                        DisplayVersion   VersionMajor
+------------ -----------                                        --------------   ------------
+
+
+----------------------------------------------------------------------------------------
+Teodora Carneanu is using SS0068
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                            DisplayVersion
+------------ -----------                                                            --------------
+SS0068       Visual Studio Community 2017                                           15.5.27130....
+SS0068       WinRAR 5.40 (64-bit)                                                   5.40.0        
+SS0068       Python 2.7.14 (64-bit)                                                 2.7.14150     
+SS0068       VS Script Debugging Common                                             16.0.76.0     
+SS0068       Node.js                                                                8.9.4         
+SS0068       MySQL Workbench 6.2 CE                                                 6.2.5         
+SS0068       Application Verifier x64 External Package                              10.1.16299.15 
+SS0068       Application Verifier x64 External Package                              10.1.15063.674
+SS0068       VS JIT Debugger                                                        16.0.76.0     
+SS0068       RabbitMQ Server 3.7.0                                                  3.7.0         
+SS0068       XAMPP                                                                  7.1.1-0       
+SS0068       vcpp_crt.redist.clickonce                                              14.12.25830   
+SS0068       WinAppDeploy                                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.15063.674
+SS0068       VS Immersive Activate Helper                                           16.0.76.0     
+SS0068       WinAppDeploy                                                           10.1.16299.15 
+SS0068       Kits Configuration Installer                                           10.1.15063.674
+SS0068       MSI Development Tools                                                  10.1.16299.15 
+SS0068       Gtk# for .Net 2.12.26                                                  2.12.26       
+
+
+----------------------------------------------------------------------------------------
+Rares Muresan is using SS0086
+The following programes installed 
+
+ComputerName ProgramName                                                    DisplayVersion   Versi
+                                                                                             onMaj
+                                                                                                or
+------------ -----------                                                    --------------   -----
+SS0086       7-Zip 18.05 (x64)                                              18.05               18
+SS0086       Notepad++ (64-bit x64)                                         7.5.8                7
+SS0086       OpenVPN 2.4.4-I601                                             2.4.4-I601            
+SS0086       Shrew Soft VPN Client                                                                
+SS0086       Total Commander 64-bit (Remove or Repair)                      9.12                 9
+SS0086       USBPcap 1.2.0.3                                                1.2.0.3               
+SS0086       PuTTY release 0.70 (64-bit)                                    0.70.0.0             0
+SS0086       Killer Performance Driver Suite                                1.5.1871             1
+SS0086       ESET Security                                                  11.0.159.9          11
+SS0086       Dell Command | Power Manager                                   2.2.1                2
+SS0086       ComLink                                                                              
+SS0086       Dropbox                                                        59.4.93             59
+SS0086       EaseUS Todo Backup Free 10.6                                   10.6                  
+SS0086       TeamViewer 13                                                  13.2.5287           13
+SS0086       WinPcap 4.1.3                                                  4.1.0.2980           4
+SS0086       WinSCP 5.13.3                                                  5.13.3               5
+SS0086       Wireshark 2.6.2 64-bit                                         2.6.2                2
+SS0086       Dropbox Update Helper                                          1.3.141.1            1
+SS0086       Thunderbolt™ Software                                          17.4.77.400         17
+SS0086       Skype™ 7.41                                                    7.41.101             7
+SS0086       Win32DiskImager version 1.0.0                                  1.0.0                1
+SS0086       Flowdock                                                       1.0.3                1
+SS0086       CDBurnerXP                                                     4.5.8.6795            
+SS0086       Sql Server Customer Experience Improvement Program             10.0.1600.22        10
+SS0086       Dell Update                                                    2.1.3.0              2
+SS0086       Asmedia USB Host Controller Driver                             1.16.54.1            1
+SS0086       Dell Command | Update                                          2.4.0                2
+
+
+----------------------------------------------------------------------------------------
+Stefan Struti is using SS0105
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                        DisplayVersion    
+------------ -----------                                                        --------------    
+SS0105       Battle.net                                                                           
+SS0105       World of Warcraft                                                                    
+
+
+----------------------------------------------------------------------------------------
+Monitoring screens is using SS0036
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                                   DisplayVersion       Ve
+                                                                                                rs
+                                                                                                io
+                                                                                                nM
+                                                                                                aj
+                                                                                                or
+------------ -----------                                                   --------------       --
+
+
+----------------------------------------------------------------------------------------
+Cristian Oltean is using SS0062. Employee is part of team Anevia.
+
+ComputerName ProgramName                                                    DisplayVersion   Versi
+                                                                                             onMaj
+                                                                                                or
+------------ -----------                                                    --------------   -----
+SS0062       SoapUI 5.4.0-EB 5.4.0-EB                                       5.4.0-EB             5
+SS0062       7-Zip 18.05 (x64)                                              18.05               18
+SS0062       MediaInfo 18.05                                                18.05                 
+SS0062       OpenVPN 2.4.6-I602                                             2.4.6-I602            
+SS0062       Pulse Secure Setup Client 64-bit Activex Control               2.1.1.1               
+SS0062       Shrew Soft VPN Client                                                                
+SS0062       Counter-Strike                                                                       
+SS0062       Sublime Text Build 3176                                                              
+SS0062       WinRAR 5.60 (64-bit)                                           5.60.0               5
+SS0062       DNE Update                                                     4.35.0.18936         4
+SS0062       Cisco Systems VPN Client 5.0.07.0440                           5.0.7                5
+SS0062       LEAPWORK 2.5.951                                               2.5.951              2
+SS0062       ESET Security                                                  11.0.159.9          11
+SS0062       FortiClient                                                    6.0.0.0067           6
+SS0062       Pulse Secure                                                   5.3.1021             5
+SS0062       Battle.net                                                                           
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103             
+SS0062       Dropbox                                                        59.4.93             59
+SS0062       OpenEye/dvbanalyzer (remove only)                                                    
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       Juniper Networks Network Connect 7.1.0                         7.1.0.18193           
+SS0062       Juniper Networks, Inc. Setup Client Activex Control            2.1.1.1               
+SS0062       Juniper Networks Secure Application Manager                    6.5.0.16339           
+SS0062       Notepad++ (32-bit x86)                                         7.5.8                7
+SS0062       Pulse Secure 5.3                                               5.3.1021              
+SS0062       Pulse Secure Setup Client Activex Control                      2.1.1.1               
+SS0062       Skype version 8.25                                             8.25                 8
+SS0062       Sophos SSL VPN Client 2.1                                      2.1                   
+SS0062       StarCraft II                                                                         
+SS0062       Steam                                                          2.10.91.91            
+SS0062       TeamViewer 13                                                  13.2.14327          13
+SS0062       PROMAX TS Analyser                                                                   
+SS0062       TSReader Lite 2.8.53                                           2.8.53               2
+SS0062       WinPcap 4.1.3                                                  4.1.0.2980           4
+SS0062       WinSCP 5.13.3                                                  5.13.3               5
+SS0062       Wireshark 2.6.1 64-bit                                         2.6.1                2
+SS0062       Dropbox Update Helper                                          1.3.141.1            1
+SS0062       Hangouts Chat                                                  18.8.311            18
+SS0062       Pulse Application Launcher                                     8.2.869              8
+SS0062       Cisco AnyConnect Secure Mobility Client                        4.6.01103            4
+SS0062       Cisco AnyConnect Diagnostics and Reporting Tool                4.6.01103            4
+SS0062       SmartBear TestComplete 12                                      12.50.4142.7        12
+SS0062       SuperPuTTY                                                     1.4.0.8              1
+SS0062       MP4 Inspector version 0.1.2.0                                  0.1.2.0              0
+SS0062       Media Analyzer                                                 1.0.0                1
+
+
+----------------------------------------------------------------------------------------
+Istvan Farkas is using SS0063
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                     DisplayVersion VersionMajor
+------------ -----------                     -------------- ------------
+SS0063       Studio 3T                       2018.2.4               2018
+SS0063       Battle.net                                                 
+SS0063       Visual Studio Community 2017    15.7.27703....             
+SS0063       Robo 3T 1.2.1                   1.2.1                      
+SS0063       StarCraft II                                               
+
+
+----------------------------------------------------------------------------------------
+Ionut Chirvasoiu is using SS0099
+The following programes are installed outside of allowed software list
+
+ComputerName ProgramName                                     DisplayVersion   VersionMajor
+------------ -----------                                     --------------   ------------
+SS0099       7-Zip 18.05 (x64)                               18.05                      18
+SS0099       Shrew Soft VPN Client                                                        
+SS0099       ESET Security                                   11.0.159.9                 11
+SS0099       Dropbox                                         59.4.93                    59
+SS0099       EaseUS Todo Backup Free 10.6                    10.6                         
+SS0099       Dropbox Update Helper                           1.3.141.1                   1
+SS0099       McAfee Safe Connect                             1.6.0.223                   1
+
+
+----------------------------------------------------------------------------------------

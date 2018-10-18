@@ -45,6 +45,8 @@ Energy Star
 IIS 10.0 Express
 IntelliTraceProfilerProxy
 Maxx Audio Installer (x64)
+UpdateAssistant
+NetworkRepairTool
 Qualcomm Atheros*
 Dell SupportAssist
 Bonjour
@@ -59,3 +61,6 @@ Office
 Mozilla
 icecap
 VLC
+AMD
+J2SE
+PX
